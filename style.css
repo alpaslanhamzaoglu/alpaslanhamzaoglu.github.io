@@ -6,3 +6,11 @@ body {
     color: aliceblue;
     text-align: center;
 }
+
+/* .linkedin {
+    color: white;
+} */
+
+.linkedin:hover {
+    color: white;
+}
