@@ -1,0 +1,77 @@
+body {
+    font-family: "Lexend Mega", sans-serif;
+    background-color: aliceblue;
+}
+
+header {
+    text-align: center;
+    margin: 3% 0;
+}
+
+header div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;    
+}
+
+
+header a {
+    font-size: 1.2rem;
+    color: black;
+}
+
+main .first {
+    margin: 5% 0;
+    padding: 1% 0;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+main .second .heading {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+main .second img {
+    height: 200px;
+    width: 250px;
+    margin-right: 4%;
+}
+
+main .second .imgs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+}
+
+main .imgs div {
+    margin: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+main .third h2 {
+    text-align: center;
+    margin: 4% 0;
+}
+
+main .third .container {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: flex-start;
+}
+
+main .third .container div {
+    padding: 0 4%;
+    flex-basis: 200px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 5%;
+}

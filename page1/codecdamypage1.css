@@ -1,0 +1,47 @@
+html {
+    font-family: 'Press Start 2P';
+    font-size: 60%;
+}
+
+body {
+    background-color: #000000b9;
+}
+
+header {
+    text-align: center;
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: bisque;
+}
+
+table {
+    color: antiquewhite;
+    text-align: center;
+    border: 2px solid azure;
+    margin: 0 auto;
+    height: 250px;
+}
+
+th,
+td {
+    border: 1px solid azure;
+    padding: 8px;
+}
+
+th {
+    background-color: #302d2db9;
+}
+
+.tags {
+    letter-spacing: 2px;
+}
+
+#home {
+    color: black;
+    font-size: 300%;
+}
+
+#home:hover {
+    color: #201b1bb9;
+}

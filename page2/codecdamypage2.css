@@ -1,0 +1,98 @@
+body {
+    text-transform: lowercase;
+    font-family: 'Montserrat', sans-serif;
+    background-color: aliceblue;
+}
+
+header h1 {
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.colors {
+    border: 1px solid black;
+    margin: 0px 100px;
+}
+
+.colors h2 {
+    margin: 10px 10px;    
+}
+
+.colors table {
+    margin: 10px;
+    margin-bottom: 30px;
+    padding: 0px 150px;
+    text-align: center;
+    line-height: 30px;
+    display: inline-block;
+}
+
+.colors .turq {
+    background-color: rgba(64, 224, 208, 1);
+}
+
+.colors .pink {
+    background-color: rgba(248, 126, 238, 1);
+}
+
+.colors .yellow {
+    background-color: rgba(253, 243, 99, 1);
+}
+
+.colors .green {
+    background-color: rgba(1, 99, 1, 1);
+    color: aliceblue;
+}
+
+.fonts {
+    margin: 30px 100px;
+    border: 1px solid black;    
+}
+
+.fonts h2 {
+    margin: 10px 10px;    
+}
+
+.fonts h3 {
+    text-decoration: underline;
+}
+
+.first, .second, .third {
+    margin-left: 10px;
+}
+
+.fonts .first {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+.fonts .second {
+    font-family: 'Playfair Display', serif;
+    font-size: large;
+}
+
+.fonts .third {
+    font-family: 'Source Code Pro', monospace;
+    font-size: large;
+}
+
+.fonts div {
+    margin-right: 100px;
+    display: inline-block;
+}
+
+.textstyles {
+    padding: 10px;
+    margin: 30px 100px;
+    border: 1px solid black;    
+}
+
+#home {
+    color: black;
+    font-size: 300%;
+}
+
+#home:hover {
+    color: #201b1bb9;
+}
